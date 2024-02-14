@@ -137,11 +137,11 @@ img {
         flex-wrap: nowrap;
     }
 
-    .row .col-6 {
+    .lessons .col {
         width: 50%;
     }
 
-    .row .col-4 {
+    .steps .col {
         width: calc(100% / 3);
     }
  }
